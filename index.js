@@ -15,7 +15,10 @@ client.on('guildMemberAdd', (member) => {
     member.sendMessage({
         embed: {
             color: 0xf44242,
-            description: 'Hey I created a server on Anime & Gaming Join us!\n**Here\'s the invite: __https://discord.gg/EbxWzQ3__**'
+            description: 'Do you want To join my server? ♡\n**Here\'s the invite: __https://discord.gg/EbxWzQ3__**',
+            image; {
+             url: 'https://cdn.discordapp.com/attachments/464714834974474240/466153658363412491/hug-S1a0DJhqG.gif'
+          }
         }
     });
 });
