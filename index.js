@@ -14,10 +14,10 @@ client.on('message', msg => {
 client.on('guildMemberAdd', (member) => {
     member.sendMessage({
         embed: {
-            color: 0xf44242,
+            color: 0xcc0000,
             description: 'Do you want to join my server? ♡\n**Here\'s the invite: __https://discord.gg/EbxWzQ3__**',
             image: {
-             url: 'https://cdn.discordapp.com/attachments/464519508309311498/466519307090657281/cuddle-rkBl8LmDZ.gif'
+             url: 'https://data.whicdn.com/images/308317986/original.gif'
           }
         }
     });
