@@ -17,7 +17,7 @@ client.on('guildMemberAdd', (member) => {
             color: 0xf44242,
             description: 'Do you want to join my server? ♡\n**Here\'s the invite: __https://discord.gg/EbxWzQ3__**',
             image: {
-             url: 'https://cdn.discordapp.com/attachments/464714834974474240/466153658363412491/hug-S1a0DJhqG.gif'
+             url: 'https://cdn.discordapp.com/attachments/464519508309311498/466519307090657281/cuddle-rkBl8LmDZ.gif'
           }
         }
     });
